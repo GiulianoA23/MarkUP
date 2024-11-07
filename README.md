@@ -3,8 +3,9 @@
   <img src="https://www.svgrepo.com/show/349437/linux.svg" width="50" style="vertical-align: baseline;"/>
   <img src="https://www.svgrepo.com/show/349566/windows.svg" width="50" style="vertical-align: baseline;"/>
   <img src="https://www.svgrepo.com/show/349300/apple.svg" width="50" style="vertical-align: baseline;"/>
-  A Simple Markdown editor cross-platform and open source
 </p> 
+
+### A Simple Markdown editor cross-platform and open source
 
 Created on **Python/Tkinter**
 
