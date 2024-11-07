@@ -5,6 +5,8 @@
   <img src="https://www.svgrepo.com/show/349300/apple.svg" width="50" style="vertical-align: baseline;"/>
 </p> 
 
+> **Important**: this is a draft version and may undergo changes in the future
+
 ### A Simple Markdown editor cross-platform and open source
 
 Created on **Python/Tkinter**
