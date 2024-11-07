@@ -16,4 +16,4 @@ Create all kinds of **Markdown** files and view them within **MarkUP**, this can
 - **Edit a MD File**
 
 ## Screenshots
-![SS1](GiulianoA23/MarkUP/.dumb/Captura1.PNG)
+![SS1](.dumb/Captura1.PNG)
